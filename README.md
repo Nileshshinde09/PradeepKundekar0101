@@ -2,24 +2,6 @@
 <h3 align="center">FullStack Web development and exploring Devops</h3>
 
 
-- 🔭 I’m currently learning **K8s**
-
-- 👯 I’m looking to collaborate on **Javascript Projects**
-
-- 💬 Ask me about **DSA, ReactJs, Javascript, MERN stack and DevOps**
-
-- 📫 How to reach me **pradeepkundekar1010@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/pradeepkundekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeepkundekar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/PradeepKundekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pradeepkundekar" height="30" width="40" /></a>
-
-</p>
-
 <h2 align="center"> Tech Stack</h2>
 
 <h3 align="left">Frontend</h3>
@@ -159,3 +141,11 @@
 
 </div>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:pradeepkundekar1010@gmail.com"> 
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="pradeepkundekar" height="25" width="35"/> </a>
+<a href="https://linkedin.com/in/pradeepkundekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeepkundekar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/PradeepKundekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pradeepkundekar" height="30" width="40" /></a>
+
+</p>
