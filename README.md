@@ -87,6 +87,9 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
+   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Logo.png" alt="nginx" width="70" height="40"/>
+  </a>
 
 </div>
 
