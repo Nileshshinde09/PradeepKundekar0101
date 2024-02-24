@@ -71,7 +71,7 @@
 
 <div>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://lavca.org/app/uploads/2019/10/aws-logo-square.png" alt="aws" width="40" height="40"/>
+    <img  src="https://i.pinimg.com/originals/74/f4/f2/74f4f2bfb89ba284ebba6fcbad474a7d.jpg" alt="aws" width="40" height="40"/>
   </a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
