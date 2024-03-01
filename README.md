@@ -142,7 +142,7 @@
 
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on</h3>
 <p align="left">
   <a href="mailto:pradeepkundekar1010@gmail.com"> 
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="pradeepkundekar" height="25" width="35"/> </a>
