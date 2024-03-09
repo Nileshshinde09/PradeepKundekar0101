@@ -30,7 +30,7 @@
 
 
 </div>
-<h3 align="left">Backend</h3>
+<h3 align="left">Backend-</h3>
 <div>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/>
