@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hello World!!!</h1>
-<h3 align="center">FullStack Web development and exploring Cloud and Devops</h3>
+<h1 align="center">npm run dev</h1>
+<h3 align="center">I convert concepts into robust deployments</h3>
 
 
 <h2 align="center"> Tech Stack</h2>
@@ -16,6 +16,11 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="tailwind" width="40" height="40"/>
   </a>
+  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" style="object-fit: cover;" alt="tanstack-query"   width="40" height="40"/>
+  </a>
+
+ 
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -42,6 +47,10 @@
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-512x512-vl7ew1eg.png" alt="nodejs" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="40" height="40"/>
   </a>
 
   <a href="https://bullmq.io/" target="_blank" rel="noreferrer">
