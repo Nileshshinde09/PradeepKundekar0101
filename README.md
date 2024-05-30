@@ -76,7 +76,7 @@
 </div>
 
 
-<h3 align="left"> DevOps </h3>
+<h3 align="left"> DevOps and Cloud </h3>
 
 <div>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
