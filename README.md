@@ -31,6 +31,12 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.openxcell.com/wp-content/uploads/2021/11/reactnative-inner.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" alt="css3" width="40" height="40"/>
+  </a>
 
 
 
