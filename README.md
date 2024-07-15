@@ -157,11 +157,6 @@
 
 </div>
 
-[![Pradeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PradeepKundekar0101&theme=github-compact)](https://github.com/PradeepKundekar0101/github-readme-activity-graph)
-
-![stats](https://github-readme-stats.vercel.app/api?username=PradeepKundekar0101&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepKundekar0101&langs_count=8&theme=dark) 
 
 <h3 align="left">Connect with me on</h3>
 <p align="left">
