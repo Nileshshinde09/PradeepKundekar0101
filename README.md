@@ -52,7 +52,7 @@
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-512x512-vl7ew1eg.png" alt="nodejs" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" alt="nodejs" width="40" height="40"/>
   </a>
 
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
