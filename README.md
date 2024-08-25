@@ -1,9 +1,6 @@
+<h3 align="center">Converting ideas into robust deployments!</h3>
 
-<h1 align="center">NPM RUN BUILD</h1>
-<h3 align="center">Converting concepts into robust deployments!</h3>
-
-
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">My Tech Stack</h2>
 
 <h3 align="left">Frontend</h3>
 <div>
