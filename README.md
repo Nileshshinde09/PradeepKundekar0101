@@ -3,7 +3,7 @@
   I like to build things that matter and affect the way the web and mobile applications operates
 </h4>
 
-<h2>My Tool box</h2>
+<h2>Skills</h2>
 
 ### Frontend Mastery
 <div style="display: flex; flex-direction: row; align-items: center;">
