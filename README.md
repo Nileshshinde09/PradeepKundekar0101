@@ -68,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin-right: 10px;" />
 </a>
 
-<a href="mailto:pradeepkundekar1010@gmail.com" target="_blank">
+<a href="mailto:pradeepkundekar1010@gmail.com" target="_blank">Send Email</a>
   <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" style="margin-right: 10px;" />
 </a>
 
