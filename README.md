@@ -1,9 +1,3 @@
-<h4>
-  I like to build things that matter and affect the way the web and mobile applications operate.
-</h4>
-
-<h2>Skills</h2>
-
 ### Frontend
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
